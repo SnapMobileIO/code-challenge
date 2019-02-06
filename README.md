@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/sONNix7ekgr9C/giphy.gif)
 
-If you were a thriving youngster in the 90s, you’re familiar with the [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) toy that was all the craze. We’d like to do a throwback (although they are still available for purchase) to this amazing toy. Below are some user stories for what we’d like to see in our “codagotchi”. Make it your own, give it a name, and have fun with it. Definitely additional points for creativity. 
+If you were a thriving youngster in the 90s, you’re familiar with the [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi) toy that was all the rage. We’d like to do a throwback (although they are still available for purchase) to this amazing toy. Below are some user stories for what we’d like to see in our “codagotchi”. Make it your own, give it a name, and have fun with it. Definitely additional points for creativity. 
 
 *As a user, I want to:*
 
@@ -28,7 +28,7 @@ If you were a thriving youngster in the 90s, you’re familiar with the [Tamagot
 * There should be a back-end with an API that handles all of the actions for the pet and basic user creation and authentication
 * The app doesn't need to be beautiful, but take the time to show off your html/css skills
 * Choose any image of a "pet" you want (cat, dog, pizza, celebrity, etc.)
-* Don't worry about over complicating the authentication for the app, but do make sure it's secure
-* Make it your own and add any additional features you’d like (e.g., multiple virtual pet images that you get randomly, more actions to perform, etc.)
+* Don't worry about over-complicating the authentication for the app, but do make sure it's secure
+* Make it your own! Add any additional features you’d like (e.g., multiple virtual pet images that you get randomly, more actions to perform, etc.)
 
 This shouldn’t take more than a few hours for the core features, but feel free to spend more time on it. When you're ready, send over your GitHub URL. If you've stumbled upon this and want to submit your app, send it to hello@snapmobile.io.
